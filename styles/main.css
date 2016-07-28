@@ -54,6 +54,10 @@ a {
   .list .add {
     padding: 25px 0 27px 25px; }
 
+  h1 {
+    padding-top: 10vh;
+  }
+
 /*input[type="checkbox"] {
     display:none;
 }
